@@ -14,4 +14,4 @@ function checkAnswer() {
     }
 }
 
-document.getElementById('usbmit-answer').addEventListener('click', checkAnswer);
+document.getElementById('submit-answer').addEventListener('click', checkAnswer);
